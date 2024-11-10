@@ -4,7 +4,7 @@ ever get tired of going to that one website to convert hex to ascii or decimal?
 
 me too, so here's a quick and simple rust cli for exactly that
 
-```bash
+```
 Usage: bt [OPTIONS] --input <INPUT> --output <OUTPUT> <DATA>
 
 Arguments:
